@@ -1,0 +1,16 @@
+bin/
+
+### IntelliJ IDEA ###
+.idea
+!**/src/main/**/out/
+!**/src/test/**/out/
+!**/target/
+
+### VS Code ###
+.vscode/
+
+### Build ###
+target/
+
+### Misc ###
+tasks.md
